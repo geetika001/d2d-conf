@@ -1,0 +1,63 @@
+:root {
+  /* fonts */
+  --font-nunito-sans: "Nunito Sans";
+  --font-open-sans: "Open Sans";
+  --font-roboto: Roboto;
+  --heading-h3: Poppins;
+  --font-nico-moji: "Nico Moji";
+
+  /* font sizes */
+  --font-size-base: 12px;
+  --font-size-lg: 14px;
+  --font-size-xl: 16px;
+  --text-xtra-larger-semibold-size: 20px;
+  --font-size-3xl: 24px;
+  --heading-h3-size: 44px;
+  --font-size-5xl: 48px;
+
+  /* Colors */
+  --neutral-color-white: #fff;
+  --background-light-blue: #ecf2fe;
+  --primary-color-0: #fcede8;
+  --neutral-color-0: #e7e7e8;
+  --neutral-color-50: #cfcfd1;
+  --text-disable: #ccc;
+  --base-wireframe-light-blue: #a0bcf8;
+  --base-wireframe-20-blue: #90acf7;
+  --neutral-color-200: #9f9fa2;
+  --text-default-in-field: #999;
+  --neutral-color-400: #6f7074;
+  --text-body-text: #666;
+  --neutral-color-500: #57585d;
+  --text-title-text: #333;
+  --color-gray-1400: #1b273d;
+  --color-gray-1500: #111;
+  --neutral-color-800: #0f1017;
+  --base-wireframe-blue: #3371f2;
+  --color-indigo-200: #342a66;
+  --color-brown-100: #db545a;
+  --primary-color-700: #e45a2e;
+  --primary-color-800: #e14817;
+
+  /* Gaps */
+  --gap-xs: 8px;
+  --gap-sm: 16px;
+  --gap-md: 24px;
+  --gap-lg: 56px;
+
+  /* Paddings */
+  --padding-xs: 4px;
+  --padding-sm: 8px;
+  --padding-md: 12px;
+  --padding-lg: 16px;
+  --padding-xl: 24px;
+
+  /* border radiuses */
+  --br-2xs: 8px;
+  --br-xs: 35.85px;
+  --br-sm: 37.54px;
+  --br-md: 37.82px;
+  --br-lg: 42.71px;
+  --br-xl: 44.72px;
+  --br-2xl: 45.05px;
+}
